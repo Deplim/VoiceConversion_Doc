@@ -1,4 +1,4 @@
-> Voice Conversion 타 문서들을 읽으면서 햇깔리는 부분이 있을때 읽는 용도 / 프로세스를 글로도 추가할 예정
+> voice conversion 프로젝트를 진행하며 작성한 문서들을 모은 레포지토리입니다.
 
 Cotatron 논문 ▶
 > [Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data. 2020](https://arxiv.org/abs/2005.03295) 
