@@ -68,8 +68,8 @@ decoder 는 기본적으로 출력값 **mel-spectrogram** 을 계산하는데 �
 tts decoder 각 time step 에서 나온 attention weight 의 list 가 **alignment** 이며, 이것을 voice conversion module 의 입력값으로 사용한다.
 
 `* tts decoder 에 대해 이해하려면 우선 다음 자료를 먼저 읽을 것을 추천함. `
-* [자연어처리 지식 - Seq2seq.md](https://github.com/Deplim/VoiceConversion_Doc/blob/main/2-1.%20%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC%20%EC%A7%80%EC%8B%9D%20-%20Seq2seq.md)
-* [자연어처리 지식 - Bahdanau attention.md](https://github.com/Deplim/VoiceConversion_Doc/blob/main/2-2.%20%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC%20%EC%A7%80%EC%8B%9D%20-%20Bahdanau%20attention.md)
+* [자연어처리 - Seq2seq.md](https://github.com/Deplim/VoiceConversion_Doc/blob/main/2-1.%20%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC%20%EC%A7%80%EC%8B%9D%20-%20Seq2seq.md)
+* [자연어처리 - Bahdanau attention.md](https://github.com/Deplim/VoiceConversion_Doc/blob/main/2-2.%20%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC%20%EC%A7%80%EC%8B%9D%20-%20Bahdanau%20attention.md)
 * [tts 기술 - Tacotron.md](https://github.com/Deplim/VoiceConversion_Doc/blob/main/3.%20tts%20%EA%B8%B0%EC%88%A0%20-%20Tacotron.md)
 
 ### LEARNING
