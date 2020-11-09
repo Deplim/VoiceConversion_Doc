@@ -1,7 +1,6 @@
-> voice conversion 프로젝트를 진행하며 작성한 문서들을 모은 리포지토리입니다.
+### 💻
+> 본 리포지토리는 voice conversion 프로젝트를 진행하며 작성한 문서들을 모아둔 저장소입니다.
 
-Cotatron 논문 ▶
-> [Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data. 2020](https://arxiv.org/abs/2005.03295) 
 
 ## Voice Conversion Architecture
  
@@ -182,3 +181,5 @@ melSS : conversion decoder 의 결과값 mel-spectrogram
 ## Vocoder
 (작성예정)
 
+Cotatron 논문 ▶
+> [Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data. 2020](https://arxiv.org/abs/2005.03295) 
