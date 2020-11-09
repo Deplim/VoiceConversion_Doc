@@ -7,7 +7,7 @@
 ![voice_conversion_architecture](https://gitlab.com/hanish3464/voice-conversion/uploads/0ad08d0c271c97f6d0ceac56fbcc3388/voice_conversion_architecture.png)
 
 ## Our project
-이 프로젝트에서는 한국어 음성변조모델을 만들어 애니메이션 더빙에 활용하는 것을 목표로 한다.
+**이 프로젝트에서는 한국어 음성변조모델을 만들어 애니메이션 더빙에 활용하는 것을 목표로 한다.**
 
 * 사용할 모델 : Cotatron
 * 목표 
