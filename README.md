@@ -13,7 +13,7 @@
 * 사용할 모델 : Cotatron
 * 목표 
 	* 이 모델은 기존에 영어를 기준으로 개발되었으므로, 본 팀에서 사용할 한국어 데이터 셋에 맞추어 새로 학습시키고 하이퍼 파라미터를 찾는다. (현제 여기까지 진행)
-	* ic data 을 대상으로 학습하여 성능을 프로젝트의 목적에 맞는 수준까지 끌어올린다. 
+	* [ic data](https://github.com/Deplim/VoiceConversion_Doc/blob/main/2.%20%20MAIN%20-%20IC_data.md) 을 대상으로 학습하여 성능을 프로젝트의 목적에 맞는 수준까지 끌어올린다. 
 
 ##  Any-to-many conversion
 ```
