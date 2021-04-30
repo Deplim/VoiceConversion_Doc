@@ -181,8 +181,5 @@ melSS : conversion decoder 의 결과값 mel-spectrogram
     하지만 대부분의 경우 하나의 대사에 대하여 한 한명의 화자만 녹음을 하므로 그렇게 하긴는 힘들다. 때문에 특정 source data 에서 feature L 을 추출하여 target speaker 의 목소리로 변환하는 conversion 할 때에학습 레이블로 다시 source data 의 audio 가 들어가게끔 되어 있는 것이다.
 
 
-## Vocoder
-(작성예정)
-
 Cotatron 논문 ▶
 > [Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data. 2020](https://arxiv.org/abs/2005.03295) 
