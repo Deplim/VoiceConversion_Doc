@@ -3,6 +3,7 @@
 
 > 학습시 마다 파라미터 설정과 경과등을 기록하였으나 사내 프로젝트인 관계로 해당 부분 문서는 공개하지 않으며, 이론 정리한 내용만 업로드되어 있습니다.
 
+[-> result_link](https://www.notion.so/6a7b84b4f2644738924fe0ec0adfb6fc)
 
 ## Voice Conversion Architecture
  
